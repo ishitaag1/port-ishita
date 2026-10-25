@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#132321"/>
+  <path d="M15 15h34v34H15z" fill="none" stroke="#b8ded2" stroke-width="2"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" fill="#b8ded2" font-family="Segoe UI,sans-serif" font-size="28" font-weight="650">IA</text>
+</svg>

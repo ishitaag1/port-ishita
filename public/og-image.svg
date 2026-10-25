@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#132321"/>
+  <path d="M765 0h435v630H765z" fill="#1e3431"/>
+  <path d="M824 0v630M944 0v630M1064 0v630M765 130h435M765 250h435M765 370h435M765 490h435" stroke="#b8ded2" stroke-opacity=".12"/>
+  <circle cx="930" cy="302" r="178" fill="none" stroke="#b8ded2" stroke-opacity=".32" stroke-width="2"/>
+  <circle cx="930" cy="302" r="142" fill="#132321" stroke="#b8ded2" stroke-opacity=".55" stroke-width="2"/>
+  <text x="930" y="330" text-anchor="middle" fill="#b8ded2" font-family="Segoe UI,sans-serif" font-size="90" font-weight="600">IA</text>
+  <text x="86" y="181" fill="#b8ded2" font-family="Segoe UI,sans-serif" font-size="19" font-weight="600" letter-spacing="4">ISHITA AGRAWAL · PORTFOLIO</text>
+  <text x="82" y="290" fill="#f2f4ef" font-family="Segoe UI,sans-serif" font-size="60" font-weight="650">Learning by</text>
+  <text x="82" y="362" fill="#f2f4ef" font-family="Segoe UI,sans-serif" font-size="60" font-weight="650">building.</text>
+  <text x="86" y="425" fill="#afc1ba" font-family="Segoe UI,sans-serif" font-size="23">Software · AI · Data · Collaboration</text>
+  <path d="M86 474h92" stroke="#b8ded2" stroke-width="3"/>
+</svg>
