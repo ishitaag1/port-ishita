@@ -945,10 +945,6 @@ export default function Portfolio() {
                   </ExternalAnchor>
                 ))}
               </div>
-              <p className="contact-note">
-                Prefer social? Instagram is included as a public profile link;
-                feel free to remove it in <code>src/data/portfolio.ts</code>.
-              </p>
             </div>
             <form className="contact-form reveal" onSubmit={handleContactSubmit}>
               <div className="form-row">
